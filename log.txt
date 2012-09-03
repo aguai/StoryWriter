@@ -1,0 +1,3 @@
+Engine initialization started. Time elapsed: 0.
+Creating INTERACTIVE scene Time elapsed: 62.
+Function: "Restoring the resolution in the end." failed in time: 6396 ms.

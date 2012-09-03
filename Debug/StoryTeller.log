@@ -1,0 +1,22 @@
+﻿Build started 8.9.2011 15:05:21.
+     1>Project "D:\STORYTELLER\Editor app\StoryTeller.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\StoryWriter.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\StoryWriter.unsuccessfulbuild".
+         Touching "Debug\StoryWriter.lastbuildstate".
+     1>Done Building Project "D:\STORYTELLER\Editor app\StoryTeller.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21

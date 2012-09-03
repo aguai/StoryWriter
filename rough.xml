@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+
+<SCENE name = "intro">
+<TYPE>interactive</TYPE>
+<SOURCE>promo.mpg</SOURCE>
+<OBJECTS>
+<OBJECT name="Text1." caption="testovaci_objekt" sound_source="..\audio\Crow.wav" caption_sound="..\audio\Crow.wav" v_count="3" finish_scene="1">
+<VERTEX X="5" Y="5"/>
+<VERTEX X="5" Y="200"/>
+<VERTEX X="205" Y="205"/>
+</OBJECT>
+<OBJECT name="Text2." caption="testovaci_objekt" sound_source="..\audio\bell.wav" caption_sound="" v_count="4" finish_scene="0">
+<VERTEX X="400" Y="200"/>
+<VERTEX X="400" Y="300"/>
+<VERTEX X="300" Y="300"/>
+<VERTEX X="300" Y="200"/>
+</OBJECT>
+<OBJECT name="TextBehind." caption="testovaci_objekt" sound_source="..\audio\Crow.wav" caption_sound="" v_count="3" finish_scene="0">
+<VERTEX X="700" Y="0"/>
+<VERTEX X="700" Y="200"/>
+<VERTEX X="600" Y="200"/>
+</OBJECT>
+<OBJECT name="Object 3" caption="!caption!" sound_source="!sound_path!" caption_sound="!caption_sound_path!" v_count="8" finish_scene="0">
+<VERTEX X="179" Y="376"/>
+<VERTEX X="331" Y="450"/>
+<VERTEX X="188" Y="478"/>
+<VERTEX X="57" Y="399"/>
+<VERTEX X="133" Y="266"/>
+<VERTEX X="269" Y="336"/>
+<VERTEX X="229" Y="218"/>
+<VERTEX X="324" Y="369"/>
+</OBJECT>
+<OBJECT name="Object 4" caption="!caption!" sound_source="!sound_path!" caption_sound="!caption_sound_path!" v_count="6" finish_scene="0">
+<VERTEX X="461" Y="346"/>
+<VERTEX X="572" Y="422"/>
+<VERTEX X="400" Y="495"/>
+<VERTEX X="505" Y="532"/>
+<VERTEX X="653" Y="421"/>
+<VERTEX X="537" Y="352"/>
+</OBJECT>
+<OBJECT name="Object 5" caption="!caption!" sound_source="!sound_path!" caption_sound="!caption_sound_path!" v_count="42" finish_scene="0">
+<VERTEX X="437" Y="99"/>
+<VERTEX X="378" Y="135"/>
+<VERTEX X="476" Y="146"/>
+<VERTEX X="461" Y="237"/>
+<VERTEX X="543" Y="219"/>
+<VERTEX X="533" Y="196"/>
+<VERTEX X="536" Y="191"/>
+<VERTEX X="544" Y="177"/>
+<VERTEX X="548" Y="174"/>
+<VERTEX X="554" Y="159"/>
+<VERTEX X="546" Y="150"/>
+<VERTEX X="534" Y="148"/>
+<VERTEX X="530" Y="145"/>
+<VERTEX X="526" Y="140"/>
+<VERTEX X="516" Y="130"/>
+<VERTEX X="516" Y="123"/>
+<VERTEX X="524" Y="118"/>
+<VERTEX X="530" Y="115"/>
+<VERTEX X="534" Y="110"/>
+<VERTEX X="537" Y="99"/>
+<VERTEX X="530" Y="89"/>
+<VERTEX X="514" Y="88"/>
+<VERTEX X="503" Y="85"/>
+<VERTEX X="491" Y="87"/>
+<VERTEX X="491" Y="95"/>
+<VERTEX X="497" Y="104"/>
+<VERTEX X="501" Y="113"/>
+<VERTEX X="498" Y="119"/>
+<VERTEX X="478" Y="120"/>
+<VERTEX X="476" Y="118"/>
+<VERTEX X="475" Y="108"/>
+<VERTEX X="475" Y="98"/>
+<VERTEX X="475" Y="86"/>
+<VERTEX X="473" Y="79"/>
+<VERTEX X="456" Y="82"/>
+<VERTEX X="455" Y="90"/>
+<VERTEX X="455" Y="97"/>
+<VERTEX X="452" Y="104"/>
+<VERTEX X="449" Y="105"/>
+<VERTEX X="443" Y="105"/>
+<VERTEX X="436" Y="104"/>
+<VERTEX X="435" Y="104"/>
+</OBJECT>
+</OBJECTS>
+</SCENE>
+

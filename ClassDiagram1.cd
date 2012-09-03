@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DIALOGUE">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="DIALOGUE::OPTION">
+        <TypeIdentifier>
+          <NewMemberFileName>dialogue.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AFQAAAAAAAAAAAAACAgAIAAEBEAAEAAAAABIAACAAAI=</HashCode>
+      <FileName>dialogue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GAMECONTROL">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADYgmFAAABaBAAAAAABAAQEAAAACAQgAgAALAAHAQYA=</HashCode>
+      <FileName>game_control.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="INTERACTIVE">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="INTERACTIVE::SCENE_OBJECT">
+        <TypeIdentifier>
+          <NewMemberFileName>interactive.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABQAAAABABAAAAAAiAABABAACQAAEAAAAAAIAACAAAA=</HashCode>
+      <FileName>interactive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMarkup" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DkYalNGhXvEAJEVFJ0CpYYCQhJCBAOck1N3huACJFHA=</HashCode>
+      <FileName>Markup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SCENE">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>nHQhiFIAJJlIAkICDhFCMwEBNAITIwgQgoAJEJWQSYA=</HashCode>
+      <FileName>scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VIDEO">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="VIDEO::SUBTITLE">
+        <TypeIdentifier>
+          <NewMemberFileName>video.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ADQgAAAAAAAAAAAACAgAAAQABAACCASAgAAIACGAAAA=</HashCode>
+      <FileName>video.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="state_changes" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAAAAAA=</HashCode>
+      <FileName>constants.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MCD_CSTR" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Markup.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MCD_CSTR_FILENAME" Collapsed="true">
+    <Position X="15" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAEAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Markup.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TextEncoding" Collapsed="true">
+    <Position X="15" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAIACEAAAAAkAAIEAAAABAAAAAAAABQCAA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ElemPos" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oEAAAAAAEAAAAAAoAAAwQCECAECIACARCAAAIAgACgA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ElemPosTree" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAIAAAAAACkAAAAAAAAQAAAAAAAAABAIBBAICA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NodePos" Collapsed="true">
+    <Position X="16.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgEAAAAAAAAAAAAAEAAEAAAAAAAAAIACAA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TokenPos" Collapsed="true">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgFAABAIAAgBAgAAAABACEAAEgAAECAABABACBA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagPos" Collapsed="true">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAgAAAUEAAAAAAAAAAAAEAAAAgAFAEACAAAAAAA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ElemStack" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAUAAEAAAIEAAACBggggCwKAgAAiAAAAAIAAGgA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FilePos" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAxAAEADBQAAAAQAgAAAFAACoBCABAQRAgAAAAaiAA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BomTableStruct" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAACAQAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PathPos" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAAggBgECoAABFAACAAAoAEAAAAIIAAKkoAAAAQACI=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SavedPos" Collapsed="true">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAg=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SavedPosMap" Collapsed="true">
+    <Position X="15" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAEAAAACAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SavedPosMapArray" Collapsed="true">
+    <Position X="16.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAIAACAAAAAABAgAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="MarkupResultCode" Collapsed="true">
+    <Position X="13.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAgAAAAAEAAABAAgAAAAAIQAAAAAAAAAAA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MarkupNodeFlagsInternal2" Collapsed="true">
+    <Position X="11.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQAAAAAAAAAAAAQAAACAAAAAAAAAAAAEEACBAA=</HashCode>
+      <FileName>Markup.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
